@@ -1,0 +1,4 @@
+pandas==1.0.5
+logging==0.5.1.2
+os
+sys
